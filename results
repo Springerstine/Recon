@@ -1,0 +1,6 @@
+
+------ NMAP ------
+
+PORT     STATE SERVICE
+5000/tcp open  upnp
+7000/tcp open  afs3-fileserver
